@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+It's a personal github, it's about my personal projects, tests/experimentations and some codes of books.
+
+## What about me ?
+I'm a very beginner in programmation, I'm currently studying javascript.
 <!--
 **lauralait/lauralait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
