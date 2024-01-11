@@ -1,6 +1,6 @@
 # Hi there 👋
 
-It's a personal github, it's about my personal projects, tests/experimentations and some codes of books.
+It's a personal github, it's about my personal projects, tests/experimentations and some codes from books.
 
 ## What about me ?
 I'm a very beginner in programmation, I'm currently studying javascript.
