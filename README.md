@@ -1,20 +1,44 @@
-# Hi there 👋
+# 👋 Hello World! I'm Lauralait.
 
-It's a personal github, it's about my personal projects, tests/experimentations and some codes from books.
+Welcome to my corner of the digital universe! 🚀 Here's a little bit about me:
 
-## What about me ?
-I'm a very beginner in programmation, I'm currently studying javascript.
+## 🌟 About Me
+
+I'm a passionate developer with a love for programming and project managin. By day, I develop some digital solutions for mall centers around the world, and by night, I transform into a reader enjoyer. My mission is to help girls to discover their coding talents, and I'm on a journey to be proud of what I do.
+
+## 🔧 Tech Stack
+
+- 💻 Languages: JavaScript, Go, F#
 <!--
-**lauralait/lauralait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🧰 Frameworks: [Your Frameworks]
+- 🚀 Tools: [Your Favorite Tools]
+- 🌐 Web Technologies: [Your Web Technologies]
 -->
+
+## 🚀 Projects
+
+Here are some projects I'm proud of:
+
+1. [Snake game](https://github.com/lauralait/c-project): A minimalist snake game in C.
+<!--
+3. [Project 2](Link to Project 2): Brief description.
+4. [Project 3](Link to Project 3): Brief description.
+-->
+
+Feel free to explore my repositories to see more!
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [Laura-lee Hollande](https://www.linkedin.com/in/laura-lee-hollande-278345198/)
+<!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.yourportfolio.com) -->
+
+## 🌈 Fun Facts
+
+- 🐎 I'm a French horse rider.
+- 📚 I'm currently reading [l'intelligence du Coeur]().
+- 🌍 I've traveled to 8 countries.
+
+## 🙌 Let's Collaborate!
+
+I'm always open to new opportunities and collaborations. If you have an exciting project or just want to chat, feel free to reach out. Let's create something awesome together! 🚀
+
