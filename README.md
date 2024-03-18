@@ -4,7 +4,7 @@ Welcome to my corner of the digital universe! 🚀 Here's a little bit about me:
 
 ## 🌟 About Me
 
-I'm a passionate developer with a love for programming and project managin. By day, I develop some digital solutions for mall centers around the world, and by night, I transform into a reader enjoyer. My mission is to help girls to discover their coding talents, and I'm on a journey to be proud of what I do.
+I'm a passionate developer with a love for programming and project managing. By day, I develop some digital solutions for mall centers around the world, and by night, I transform into a reader enjoyer. My mission is to help girls to discover their coding talents, and I'm on a journey to be proud of what I do.
 
 ## 🔧 Tech Stack
 
