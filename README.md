@@ -35,7 +35,7 @@ Feel free to explore my repositories to see more!
 ## 🌈 Fun Facts
 
 - 🐎 I'm a French horse rider.
-- 📚 I'm currently reading [l'intelligence du Coeur]().
+- 📚 I'm currently reading [Computer Science Distilled: Learn the art of solving computational problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020).
 - 🌍 I've traveled to 8 countries.
 
 ## 🙌 Let's Collaborate!
