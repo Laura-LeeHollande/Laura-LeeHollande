@@ -42,3 +42,7 @@ Feel free to explore my repositories to see more!
 
 I'm always open to new opportunities and collaborations. If you have an exciting project or just want to chat, feel free to reach out. Let's create something awesome together! 🚀
 
+## #30NitesOfCode
+  [Check out my progress!](https://www.codedex.io/@lauraleeh52192/30-nites-of-code)  
+  ![@lauraleeh52192 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lauraleeh52192)
+
