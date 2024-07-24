@@ -1,48 +1,30 @@
-# 👋 Hello World! I'm Lauralait.
+<h2> Hi, I'm Laura-Lee Hollande! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lxemhvaWZ3NmxkNmV0M3N2ZnhxM3hvMm02MTRvbHI3ang0cTlycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vX3Cv6QKpj5vO/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Project Manager - Junior Digital Developer at <a href="https://adactive.com/">Adactive</a><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Zxb3h4a2NxNWY5b3RsaTJ4M2hpZnliemhpeXRpNmtwNWtscDQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9oIP1reV9H1ncSnq7r/giphy.gif" width="40"></br>
+</em></p>
 
-Welcome to my corner of the digital universe! 🚀 Here's a little bit about me:
+[![Linkedin: Laura-Lee Hollande](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-lee-hollande-278345198/)](https://www.linkedin.com/in/laura-lee-hollande-278345198/)
+[![GitHub My Github](https://img.shields.io/github/followers/Laura-LeeHollande?label=follow&style=social)](https://github.com/Laura-LeeHollande)
 
-## 🌟 About Me
 
-I'm a passionate developer with a love for programming and project managing. By day, I develop some digital solutions for mall centers around the world, and by night, I transform into a reader enjoyer. My mission is to help girls to discover their coding talents, and I'm on a journey to be proud of what I do.
+### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NhcGZ2eTU3bDVnejc2OGd1bWM3eGM3a2YwN2p6YnNncGJveHl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TNn2YauGNuJ1t1CIno/giphy.gif" width="40"> A little more about me...  
 
-## 🔧 Tech Stack
+```js
+const laulee = {
+  pronouns: "she" | "her",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Node.js"],
+  skills: {
+    languages: ["French", "English", "Japanese", "Spanish"],
+    sports: ["Horse Riding"],
+    hobbies: ["Reading", "Video Games"],
+    education: "Autodidact"
+  },
+  currentFocus: "Updating my portfolio [WIP]",
+  funFact: "I have chronic hiccups :)"
+};
+```
 
-- 💻 Languages: JavaScript, Go, F#
-<!--
-- 🧰 Frameworks: [Your Frameworks]
-- 🚀 Tools: [Your Favorite Tools]
-- 🌐 Web Technologies: [Your Web Technologies]
--->
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGExeWJ4aTlxOWJ5dTdobThjNjZrOHhxaXh5NTluZzRuZmd1bWNkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2JEz7yXQ8V8ikGnob/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-## 🚀 Projects
-
-Here are some projects I'm proud of:
-
-1. [Snake game](https://github.com/lauralait/c-project): A minimalist snake game in C.
-<!--
-3. [Project 2](Link to Project 2): Brief description.
-4. [Project 3](Link to Project 3): Brief description.
--->
-
-Feel free to explore my repositories to see more!
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Laura-lee Hollande](https://www.linkedin.com/in/laura-lee-hollande-278345198/)
-<!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.yourportfolio.com) -->
-
-## 🌈 Fun Facts
-
-- 🐎 I'm a French horse rider.
-- 📚 I'm currently reading [Computer Science Distilled: Learn the art of solving computational problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020).
-- 🌍 I've traveled to 8 countries.
-
-## 🙌 Let's Collaborate!
-
-I'm always open to new opportunities and collaborations. If you have an exciting project or just want to chat, feel free to reach out. Let's create something awesome together! 🚀
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@lauralee/30-nites-of-code)  
-  ![@lauralee #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lauralee)
-
+---
