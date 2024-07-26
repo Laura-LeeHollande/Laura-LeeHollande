@@ -63,3 +63,10 @@ const laulee = {
 ![Laulee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura-LeeHollande&show_icons=true&theme=cobalt)
 
 </div>
+  
+## #30NitesOfCode
+  Check out my progress on [Codedex](https://www.codedex.io/@lauralee/30-nites-of-code)<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Zxb3h4a2NxNWY5b3RsaTJ4M2hpZnliemhpeXRpNmtwNWtscDQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9oIP1reV9H1ncSnq7r/giphy.gif" width="40">
+  
+  ![@lauralee #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lauralee)
+
+
